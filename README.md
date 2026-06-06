@@ -117,7 +117,7 @@ The SQL workflow includes:
 
 # Live Dashboard
 
-[View Interactive Tableau Dashboard]((https://public.tableau.com/views/nyc_restaurant_inspections/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/nyc_restaurant_inspections/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
