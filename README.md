@@ -125,35 +125,35 @@ The SQL workflow includes:
 
 ## Overview Dashboard
 
-<img width="1199" height="899" alt="Overview" src="https://github.com/user-attachments/assets/85fba39f-f287-4af3-a67d-c07e0beda93f" />
+<img width="1199" height="899" alt="Overview" src="https://github.com/user-attachments/assets/f93f06e2-9c49-4d4d-b594-e15150bb5904" />
 
 
 ---
 
 ## Violations Dashboard
 
-<img width="1199" height="899" alt="Violations" src="https://github.com/user-attachments/assets/a7984fec-6d80-4af3-84f2-d6a8f614163b" />
+<img width="1199" height="899" alt="Violations" src="https://github.com/user-attachments/assets/668ef9ab-b374-41c9-aba8-a0e2ced707e4" />
 
 
 ---
 
 ## Grades Dashboard
 
-<img width="1199" height="899" alt="Grades" src="https://github.com/user-attachments/assets/b27a543e-ceca-41b4-9c02-48ff10b1ef94" />
+<img width="1199" height="899" alt="Grades" src="https://github.com/user-attachments/assets/123855bf-5aed-44c9-96a1-d82b0d19b582" />
 
 
 ---
 
 ## Cuisine & Score Dashboard
 
-<img width="1199" height="899" alt="Cuisine" src="https://github.com/user-attachments/assets/c8c180a3-6736-4dfc-b047-6033243fd31b" />
+<img width="1199" height="899" alt="Cuisine" src="https://github.com/user-attachments/assets/10ee2635-beae-4a2e-a278-3e043b7e7a54" />
 
 
 ---
 
 ## Restaurant Records Dashboard
 
-<img width="1199" height="899" alt="Records" src="https://github.com/user-attachments/assets/b5305f2a-bf4e-4c64-89bc-b4f4bb8a3253" />
+<img width="1199" height="899" alt="Records" src="https://github.com/user-attachments/assets/a7261aa1-95f2-4c91-b17d-172b0ae7eb5e" />
 
 
 ---
